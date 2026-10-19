@@ -1,5 +1,3 @@
-
-
 from phonemizer import phonemize
 from phonemizer.separator import Separator
 import matplotlib.pyplot as plt
